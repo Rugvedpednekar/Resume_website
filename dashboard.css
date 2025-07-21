@@ -44,3 +44,6 @@ button{
     justify-content:space-between;
     font-size: 15px;
 }
+button:hover{
+    scale: 0.9;
+}
